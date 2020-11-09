@@ -1,0 +1,84 @@
+{
+  "Tabasco": {
+    "numberOf": "3",
+    "products": [
+      {
+        "name": "Scorpion Sauce",
+        "price": "5.00€",
+        "image": "tabasco-scorpion.jpg",
+        "rating": "5",
+        "details": {
+          "ingredients": "Scorpion Peppers, Destilled Vinegar, Sugar, Guava Puree, Pineapple, Salt, Guava Powder and Pineapple Powder",
+          "hot": "5",
+          "scoville": "35,000",
+          "brand": "Tabasco Scorpion Sauce"
+        }
+      },
+      {
+        "name": "Original Sauce",
+        "price": "5.00€",
+        "image": "tabasco-original.jpg",
+        "rating": "4",
+        "details": {
+          "ingredients": "Peppers, Vinegar and Salt",
+          "hot": "3",
+          "scoville": "2500-5000",
+          "brand": "Tabasco Original Sauce"
+        }
+      },
+      {
+        "name": "Jalapeno Sauce",
+        "price": "5.00€",
+        "image": "tabasco-jalapeno.jpg",
+        "rating": "3",
+        "details": {
+          "ingredients": "Destilled Vinegar, Jalapeno Pepper, Water, Salt, Cornstarch, Xanthan Gum and Ascorbic Acid",
+          "hot": "1",
+          "scoville": "600-1200",
+          "brand": "Tabasco Jalapeno Sauce"
+        }
+      }
+    ]
+  },
+  "Paladin": {
+    "numberOf": "3",
+    "products": [
+      {
+        "name": "Sacana Ai-Ai",
+        "price": "2.99€",
+        "image": "paladin-garlic.jpg",
+        "rating": "3",
+        "details":{
+          "ingredients": "Spicy Extract (34%), Alcohol Vinegar, Water, Salt and Pepper Mass (Pepper, Salt, Antioxidant)",
+          "hot": "5",
+          "scoville": "20,000",
+          "brand": "Paladin Sacana Ai-Ai"
+        }
+      },
+      {
+        "name": "Sacana w/Lemon",
+        "price": "2.99€",
+        "image": "paladin-garlic.jpg",
+        "rating": "4",
+        "details": {
+          "ingredients": "Spicy Extract (34%), Alcohol Vinegar, Lemon, Salt and Pepper Mass (Pepper, Salt, Antioxidant)",
+          "hot": "2",
+          "scoville": "2500-5000",
+          "brand": "Paladin Sacana w/Lemon"
+        }
+      },
+      {
+        "name": "Sacana w/Garlic",
+        "price": "1.99€",
+        "image": "paladin-garlic.jpg",
+        "rating": "5",
+        "details": {
+          "ingredients": "SPICY EXTRACT (34%), ALCOHOL VINEGAR, Garlic, SALT and PEPPER MASS (PEPPER, SALT, ANTIOXIDANT)",
+          "hot": "1",
+          "scoville": "600-1200",
+          "brand": "Paladin Sacana w/Garlic"
+        }
+      }
+    ]
+  }
+}
